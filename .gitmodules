@@ -1,0 +1,9 @@
+[submodule "com_roadmapdonation_admin"]
+	path = administrator/components/com_roadmapdonation
+	url = git@github.com:LarSantaMonica/joomla_component_roadmap_donation_admin.git
+[submodule "com_roadmapdonation_site"]
+	path = components/com_roadmapdonation
+	url = git@github.com:LarSantaMonica/joomla_component_roadmap_donation_site.git
+[submodule "lsm_2017_1"]
+	path = templates/lsm_2017_1
+	url = git@github.com:LarSantaMonica/joomla_template_lsm_2017.git
